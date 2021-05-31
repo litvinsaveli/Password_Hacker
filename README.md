@@ -1,3 +1,3 @@
 # Password_Hacker
-A Project from JetBrains Academy.
-My 9 Project
+A Project from JetBrains Academy.\n
+My 9 Project. socket requests, Json, 
