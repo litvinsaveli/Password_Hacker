@@ -1,2 +1,2 @@
 # Password_Hacker
-My 9 Project from JetbrainsAcademy. Socket, send-requests, Json.
+Socket, send-requests, Json. My 9 Project from JetbrainsAcademy. 
